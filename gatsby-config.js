@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Free Help Center`,
-    author: `Dominik Ferber`,
+    title: `Centro de Ayuda`,
+    author: `EloFran`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
     description: `Get a free self-hosted Help Center like this one`,
-    siteUrl: `https://help.dferber.de/`,
-    language: "en",
+    siteUrl: `https://buscador.netlify.app/`,
+    language: "es",
     texts: {
       allCollectionsText: "All Collections",
-      searchPlaceholderText: "Search for answers…",
+      searchPlaceholderText: "Comienza a buscar...",
       lastModifiedText: "Last edited",
       publishedOnText: "Published on",
       writtenByText: "Written by",
