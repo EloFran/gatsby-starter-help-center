@@ -9,6 +9,7 @@
   "dependencies": {
     "@emotion/core": "10.0.28",
     "@mdx-js/react": "1.6.13",
+    "dot-prop": "^5.2.0",
     "downshift": "5.4.7",
     "fuse.js": "6.4.0",
     "gatsby": "^2.19.17",
@@ -48,7 +49,7 @@
   "devDependencies": {
     "prettier": "^2.0.5"
   },
-  "homepage": "https://github.com/dferber90/gatsby-starter-help-center#readme",
+  "homepage": "https://github.com/EloFran/gatsby-starter-help-center",
   "keywords": [
     "gatsby"
   ],
