@@ -1,5 +1,5 @@
---
-title: TÍTULO PRELIMINAR
+---
+title: Artículo 1
 date: 2020-01-02
 author: Elo Fran
 modifiedDate: null
