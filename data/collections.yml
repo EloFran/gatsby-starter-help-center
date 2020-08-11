@@ -29,19 +29,19 @@
   articles:
     - file: ../content/welcome/index.md
 
-- id: features-and-nonfeatures
-  title: Features and Non-Features
-  description: Everything the Free Help Center offers out of the box
-  icon: "FaBox"
+- id: constitucion-española
+  title: Constitución Española
+  description: Constitución Española de 1978
+  icon: "FaBook"
   sections:
-    - id: features
-      title: Features
+    - id: preambulo
+      title: Preámbulo
       articles:
-        - file: ../content/features/index.md
-    - id: nonfeatures
-      title: Non-Features
+        - file: ../content/preambulo/index.md
+    - id: titulo-preliminar
+      title: TÍTULO PRELIMINAR
       articles:
-        - file: ../content/comparison-to-saas/index.md
+        - file: ../content/titulo-preliminar/index.md
 
 - id: usage
   title: Usage
