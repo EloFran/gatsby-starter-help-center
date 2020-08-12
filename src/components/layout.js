@@ -39,9 +39,7 @@ function SearchInput(props) {
             description
           }
           headings {
-            # depth
-            ## depth
-            ### depth
+            #### depth
             value
           }
       
