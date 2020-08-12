@@ -1,9 +1,9 @@
 ---
-title: TÍTULO I
+title: TÍTULO I. De los derechos y deberes fundamentales.
 date: 2020-01-02
 author: Elo Fran
 modifiedDate: null
-description: "De los derechos y deberes fundamentales. El TÍTULO PRIMERO Comprende los artículos del 10 al 55"
+description: "El TÍTULO PRIMERO Comprende los artículos del 10 al 55"
 ---
 
 ### Artículo 10
@@ -84,31 +84,33 @@ Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ni
 
 4. La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.
 
+***
 
 ### Artículo 19
 Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional.
 
  Asimismo, tienen derecho a entrar y salir libremente de España en los términos que la ley establezca. Este derecho no podrá ser limitado por motivos políticos o ideológicos.
 
-Ver sinopsis
-Artículo 20
-Se reconocen y protegen los derechos:
+ ***
 
-a) A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.
+### Artículo 20
+1. Se reconocen y protegen los derechos:
 
-b) A la producción y creación literaria, artística, científica y técnica.
+    a) A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.
 
-c) A la libertad de cátedra.
+    b) A la producción y creación literaria, artística, científica y técnica.
 
-d) A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.
+    c) A la libertad de cátedra.
 
-El ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.
+    d) A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.
 
-La ley regulará la organización y el control parlamentario de los medios de comunicación social dependientes del Estado o de cualquier ente público y garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.
+2. El ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.
 
-Estas libertades tienen su límite en el respeto a los derechos reconocidos en este Título, en los preceptos de las leyes que lo desarrollen y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.
+3. La ley regulará la organización y el control parlamentario de los medios de comunicación social dependientes del Estado o de cualquier ente público y garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.
 
-Sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial.
+4. Estas libertades tienen su límite en el respeto a los derechos reconocidos en este Título, en los preceptos de las leyes que lo desarrollen y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.
+
+5. Sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial.
 
 
 
