@@ -4,7 +4,7 @@ module.exports = {
     author: `EloFran`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Get a free self-hosted Help Center like this one`,
+    description: `Centro de ayuda y buscador`,
     siteUrl: `https://buscador.netlify.app/`,
     language: "es",
     texts: {
