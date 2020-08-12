@@ -42,9 +42,7 @@ function SearchInput(props) {
             # depth
             value
           }
-          headings.value{
-            value
-          }
+      
           # excerpt(format: PLAIN)
         }
       }
