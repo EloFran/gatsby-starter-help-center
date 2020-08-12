@@ -40,6 +40,8 @@ function SearchInput(props) {
           }
           headings {
             # depth
+            ## depth
+            ### depth
             value
           }
       
