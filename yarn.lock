@@ -888,6 +888,13 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@babel/runtime@^7.4.3":
+  version "7.11.2"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.11.2.tgz#f549c13c754cc40b87644b9fa9f09a6a95fe0736"
+  integrity sha512-TeWkU52so0mPtDcaCTxNBI/IHiz0pZgr8VEFqXFtZWpYD08ZB6FaSwVAS8MKRQAP3bYKiVjwysOJgMFY28o6Tw==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
 "@babel/standalone@^7.10.3":
   version "7.10.5"
   resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.10.5.tgz#4ee38dc79fda10a2a0da0897f09e270310151314"
@@ -6174,6 +6181,15 @@ gatsby-plugin-google-analytics@^2.1.35:
     "@babel/runtime" "^7.10.3"
     minimatch "3.0.4"
 
+gatsby-plugin-lunr@^1.5.2:
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-lunr/-/gatsby-plugin-lunr-1.5.2.tgz#eaeba70b85294827e031070c9bad70a93226e509"
+  integrity sha512-L+W8Jb7io824oxBGP973/7N9uv5YUhWpjRdteWDfWzku2S3vzlunoKVz5h4kMXezWDZDV2g8YsfWFNor7Gg5QQ==
+  dependencies:
+    "@babel/runtime" "^7.4.3"
+    lunr "^2.3.6"
+    lunr-languages "^1.1.0"
+
 gatsby-plugin-manifest@^2.2.41:
   version "2.4.19"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.4.19.tgz#c3e21b110ec435cce49e49910fcb0dee7819b78d"
@@ -8991,6 +9007,16 @@ lru-cache@^6.0.0:
   integrity sha512-Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA==
   dependencies:
     yallist "^4.0.0"
+
+lunr-languages@^1.1.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/lunr-languages/-/lunr-languages-1.4.0.tgz#42abb12aa81447d1ece5aa35676adcdf40a3e8a8"
+  integrity sha512-YWfZDExJN/MJEVE/DbM4AuVRLsqeHi+q3wmECMsWjGIOkd5mr9DUNos7fv8f5do9VLRMYXIzFjn+N4+KPI9pQA==
+
+lunr@^2.3.6:
+  version "2.3.8"
+  resolved "https://registry.yarnpkg.com/lunr/-/lunr-2.3.8.tgz#a8b89c31f30b5a044b97d2d28e2da191b6ba2072"
+  integrity sha512-oxMeX/Y35PNFuZoHp+jUj5OSEmLCaIH4KTFJh7a93cHBoFmpw2IoPs22VIz7vyO2YUnx2Tn9dzIwO2P/4quIRg==
 
 magic-string@^0.25.3:
   version "0.25.7"
