@@ -42,6 +42,10 @@
       title: TÍTULO PRELIMINAR
       articles:
         - file: ../content/titulo-preliminar/index.md
+    - id: titulo-i
+      title: TÍTULO I
+      articles:
+        - file: ../content/titulo-i/index.md
 
 - id: usage
   title: Usage
